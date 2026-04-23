@@ -52,9 +52,6 @@ The housing plays a critical role by:
 
 ##  Technical Drawing
 
- Full drawing:  
- [View Drawing (PDF)](worm_gear_housing.pdf)
-
 The drawing includes:
 
 - Section views (A-A, B-B, C-C) showing internal geometry
