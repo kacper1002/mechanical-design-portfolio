@@ -66,7 +66,7 @@ The drawing includes:
 - Fully dimensioned geometry
 - Parts list with materials
 - Notes and scaling information
-
+https://github.com/kacper1002/mechanical-design-portfolio/blob/main/planetary_gear/Planetary%20Gear.pdf
 > All dimensions are provided in millimeters.
 
 ---
