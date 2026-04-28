@@ -14,3 +14,5 @@ Each project includes:
 ### Planetary Gear
 
 ### Ball Bearing
+
+### Worm Gear Casing
